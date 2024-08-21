@@ -15,7 +15,8 @@ This project is a Streamlit application designed to visualize and analyze datase
   - Pie chart for selected categorical columns.
   - Scatter or line plot with user-defined x and y axes.
   - Box or violin plot comparing numerical columns with categorical columns.
-
+## Application
+- To Visit the Application Follow the [Link](https://interactive-data-analysis-dashboard-synqppjdq2uc8pevrapgsn.streamlit.app/)
 ## Requirements
 
 Ensure you have the following packages installed. You can install them using `pip`:
